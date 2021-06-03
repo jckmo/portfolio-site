@@ -13,4 +13,4 @@ Personal Website for a Jackson Morgan
 * Built using stateless React
 
 ## Authors
-* - [@jvckmo](https://www.github.com/jvckmo)
+* [@jvckmo](https://www.github.com/jvckmo)
